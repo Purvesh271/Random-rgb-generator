@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+div {
+    text-align: center;
+    height: 15rem;
+    width: 60rem;
+    border: 1px solid black;
+    margin: auto;
+}
+button {
+    padding: 0.5rem;
+}
